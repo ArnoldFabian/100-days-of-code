@@ -14,6 +14,13 @@
 **Today's Progress**: I made the image and text to be side by side.
 **Thoughts:** I Battled a lot with this, i tried changing widths, paddings displays, all to make it look how i had it in my mind, safe to say i couldn't do it today. I spent too much time into it maybe i should just make it standard, I'll try tomorrow again. Result: image to the right text to the left.
 **Link to work:** [TRIBUTE PAGE] https://codepen.io/ArnoldFabian/pen/oprred?editors=1100
+
+### Day 3: January 28, 2018 (Example 1)
+<!--##### (delete me or comment me out)-->
+
+**Today's Progress**: Main image is now styled to resemble a portrait photo, text and image are now side by side properly, info text is properly separated, added an image to info text.
+**Thoughts:** Todays work flow was a lot smoother, i learned that i should search more efitienly on google, relaying more on technical terms, with less words so it searches for what i really want and not subjectivelly. I'm really happy with the imrovement of the page, but i'm not content with it so i'll keep working to make it how i want it to be if only a little. I don't know if this passes the challenge bar.
+**Link to work:** [TRIBUTE PAGE] https://codepen.io/ArnoldFabian/full/oprred/
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
