@@ -22,9 +22,19 @@
 **Thoughts:** Todays work flow was a lot smoother, i learned that i should search more efitienly on google, relaying more on technical terms, with less words so it searches for what i really want and not subjectivelly. I'm really happy with the imrovement of the page, but i'm not content with it so i'll keep working to make it how i want it to be if only a little. I don't know if this passes the challenge bar.
 **Link to work:** [TRIBUTE PAGE] https://codepen.io/ArnoldFabian/full/oprred/
 
+### Day 4: January 30, 2018 
+<!--##### (delete me or comment me out)-->
+
 **Today's Progress**: Tribute page completed
 **Thoughts:** I think the page is ready, i added margin to cointainers, completed text and paragraphs, it didn't take much time, i'm satisfied with the result but i probably will revisit the page in the future when my skill are better.
 **Link to work:** [TRIBUTE PAGE] https://codepen.io/ArnoldFabian/full/oprred/
+
+### Day 5: January 31, 2018 
+<!--##### (delete me or comment me out)-->
+
+**Today's Progress**: Tribute page completed
+**Thoughts:** I should update earlier. Started the Personal Portfolio Webpage challenge at freecodecamp, i didn't code much today, but i spent time learning bootstrap and finding references for the challenge, i want to make it beautiful and responsive and interactive with buttons that make apear a unicorn in your house, but experience dictates that i should just probably just build a functional website and adding just a bit of touch to it since it will eat most of my time if i search 'how to interact with html'. Anyway, Let's see if i can finish it tomorrow.
+**Link to work:** [Personal Portfolio Webpage] https://codepen.io/ArnoldFabian/full/gvpJya/
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
