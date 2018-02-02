@@ -35,6 +35,13 @@
 **Today's Progress**: Tribute page completed
 **Thoughts:** I should update earlier. Started the Personal Portfolio Webpage challenge at freecodecamp, i didn't code much today, but i spent time learning bootstrap and finding references for the challenge, i want to make it beautiful and responsive and interactive with buttons that make apear a unicorn in your house, but experience dictates that i should just probably just build a functional website and adding just a bit of touch to it since it will eat most of my time if i search 'how to interact with html'. Anyway, Let's see if i can finish it tomorrow.
 **Link to work:** [Personal Portfolio Webpage] https://codepen.io/ArnoldFabian/full/gvpJya/
+
+### Day 6: february 1, 2018 
+<!--##### (delete me or comment me out)-->
+
+**Today's Progress**: Navbar and showcase styled
+**Thoughts:** I learned quite a bit of bootstrap today, for example, the nav class doesn't work the sameway in 3.7 and 4, i think it doesn't even work in 4 but i don't know, I really should update earlier. Most of my time was sepent learning, but i feel great because the page for my portfolio looks great and moder, even responsive, yay bootstrap!. tired i don't know what else to say.
+**Link to work:** [Personal Portfolio Webpage] https://codepen.io/ArnoldFabian/full/gvpJya/
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
