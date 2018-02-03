@@ -42,6 +42,13 @@
 **Today's Progress**: Navbar and showcase styled
 **Thoughts:** I learned quite a bit of bootstrap today, for example, the nav class doesn't work the sameway in 3.7 and 4, i think it doesn't even work in 4 but i don't know, I really should update earlier. Most of my time was sepent learning, but i feel great because the page for my portfolio looks great and moder, even responsive, yay bootstrap!. tired i don't know what else to say.
 **Link to work:** [Personal Portfolio Webpage] https://codepen.io/ArnoldFabian/full/gvpJya/
+
+### Day 7: february 2, 2018 
+<!--##### (delete me or comment me out)-->
+
+**Today's Progress**: Navbar and showcase re-styled, added text and thumbnail images.
+**Thoughts:** I spent too much time re-styling the navbar and showcase, i was fighting with the navbar because content keep disapearing behind it, also re-coded the showcase as i didn't think it was ideal to have a background-image as property instead of making a div with an img tag in it, boy i was wrong, so all the time spent re-doing was for nothing project-wise but i learned stuff, i read a bit of bootstrap and thats it i think, body... tired...
+**Link to work:** [Personal Portfolio Webpage] https://codepen.io/ArnoldFabian/full/gvpJya/
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
