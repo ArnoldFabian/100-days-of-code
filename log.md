@@ -49,6 +49,13 @@
 **Today's Progress**: Navbar and showcase re-styled, added text and thumbnail images.
 **Thoughts:** I spent too much time re-styling the navbar and showcase, i was fighting with the navbar because content keep disapearing behind it, also re-coded the showcase as i didn't think it was ideal to have a background-image as property instead of making a div with an img tag in it, boy i was wrong, so all the time spent re-doing was for nothing project-wise but i learned stuff, i read a bit of bootstrap and thats it i think, body... tired...
 **Link to work:** [Personal Portfolio Webpage] https://codepen.io/ArnoldFabian/full/gvpJya/
+
+### Day 8: february 3, 2018 
+<!--##### (delete me or comment me out)-->
+
+**Today's Progress**: Thumbnail grid styled, added contact div.
+**Thoughts:** Today i realized again why people like bootstrap, i spent some time re-sizing the showcase, the text wasn't centered and was too big, the grid i added yesterday was styled properly and centered, wasn't hard but took time. Added a conctact div with bootstrap, since i probably add links to facebook and such i figured i need icons, so this is the first time using fontawesome and it seems it doesn't get algong with bootstrap, i'll fix it tomorrow.
+**Link to work:** [Personal Portfolio Webpage] https://codepen.io/ArnoldFabian/full/gvpJya/
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
