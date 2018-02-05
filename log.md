@@ -56,6 +56,13 @@
 **Today's Progress**: Thumbnail grid styled, added contact div.
 **Thoughts:** Today i realized again why people like bootstrap, i spent some time re-sizing the showcase, the text wasn't centered and was too big, the grid i added yesterday was styled properly and centered, wasn't hard but took time. Added a conctact div with bootstrap, since i probably add links to facebook and such i figured i need icons, so this is the first time using fontawesome and it seems it doesn't get algong with bootstrap, i'll fix it tomorrow.
 **Link to work:** [Personal Portfolio Webpage] https://codepen.io/ArnoldFabian/full/gvpJya/
+
+### Day 9: february 4, 2018
+###
+
+**Today's Progress**: Link to social accounts added, not styled yet.
+**Thoughts:** I didn't advanced as i wanted today, figuring how to display the contact div was time consuming, i think i still overthink too much. Figured why the grid thumbnail wasn't well centered. Used github a bit today.
+**Link to work:** [Personal Portfolio Webpage] https://s.codepen.io/ArnoldFabian/debug/gvpJya/LQkExPOeXLnA
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
