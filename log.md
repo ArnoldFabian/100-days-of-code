@@ -63,6 +63,13 @@
 **Today's Progress**: Link to social accounts added, not styled yet.
 **Thoughts:** I didn't advanced as i wanted today, figuring how to display the contact div was time consuming, i think i still overthink too much. Figured why the grid thumbnail wasn't well centered. Used github a bit today.
 **Link to work:** [Personal Portfolio Webpage] https://s.codepen.io/ArnoldFabian/debug/gvpJya/LQkExPOeXLnA
+
+### Day 10: february 5, 2018
+###
+
+**Today's Progress**: Website completed
+**Thoughts:** The webpage fullfills the requisits for the freecodecamp challange, The page doesn't have much content but i'll keep updating it as my experience grows.
+**Link to work:** [Personal Portfolio Webpage] https://s.codepen.io/ArnoldFabian/debug/gvpJya/LDkmdVQYvywA
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
