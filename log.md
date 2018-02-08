@@ -77,6 +77,13 @@
 **Today's Progress**: Learned bootstrap, html dom, and revisted js basics
 **Thoughts:** Today i din't code, but spent time learning, from bootstrap to html dom. I learned some of the basics of the javascript i hadn't seen before in freecodecamp, I spent half an hour looking for how to make a count down, I want to make one but everything i've seen is related to dates, i want to make it accept input as time limit, i'll try to keep looking into it. Also in day 8 i checked the tribute page for ada lovelace and something was terribly wrong i'll try to fix it, bad news is it's already submitted to freecodecamp, i wonder if it'll affect anything...
 **Link to work:** <script>document.getElementByElement("body").innerHTML = "I leaned a bit"</script>(i just tried it in codepen it doesn't work lol)
+
+### Day 12: february 7, 2018
+###
+
+**Today's Progress**: Learned bootstrap, html dom, and revisted js basics AGAIN
+**Thoughts:** Same as yesterday, freecodecamp course, w3schools bootstrap and HTML DOM tutorial. I wish i could code something fancy...
+**Link to work:** <script>document.getElementByElement("body").innerHTML = "I leaned a bit"</script>(i just tried it in codepen it 
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
