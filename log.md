@@ -84,6 +84,13 @@
 **Today's Progress**: Learned bootstrap, html dom, and revisted js basics AGAIN
 **Thoughts:** Same as yesterday, freecodecamp course, w3schools bootstrap and HTML DOM tutorial. I wish i could code something fancy...
 **Link to work:** <script>document.getElementByElement("body").innerHTML = "I leaned a bit"</script>(i just tried it in codepen it 
+
+### Day 13: february 8, 2018
+###
+
+**Today's Progress**: Learned HTML DOM
+**Thoughts:** I didn't work too much today, but i managed to learn a bit of dom and i'm trying to make an animation with it, i don't want it to be fancy, it should be simple, for the moment i have a circle made with css, now i'm trying to animate it, the animation should be some kind of shine, it should make it look a bit 3D re-read some of what i read and learned more in stack-overflow.
+**Link to work:** https://codepen.io/ArnoldFabian/pen/KQarOK?editors=0001
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
