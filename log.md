@@ -91,6 +91,13 @@
 **Today's Progress**: Learned HTML DOM
 **Thoughts:** I didn't work too much today, but i managed to learn a bit of dom and i'm trying to make an animation with it, i don't want it to be fancy, it should be simple, for the moment i have a circle made with css, now i'm trying to animate it, the animation should be some kind of shine, it should make it look a bit 3D re-read some of what i read and learned more in stack-overflow.
 **Link to work:** https://codepen.io/ArnoldFabian/pen/KQarOK?editors=0001
+
+### Day 14: february 9, 2018
+###
+
+**Today's Progress**: Advanced the challanges at freecodecamp, Advanced a bit of bootstrap, and re-read html basics at w3schools. Tried to make animation work, still needs progress.
+**Thoughts:** I worked in freecodecamp today with the help of the pomodoro technique, it's quite cool, relearned js basics and advanced at w3schools, I'm reading the html tutorial, and it isn't as hard as it was in the begining i advanced a lot in an hour, probably i'll finish it in a day or two maybe. I don't know if i should read the css tutorial too. The animation i was trying to do with DOM is going to take more time than i thought, i'll stop for the time beign.
+**Link to work:** https://codepen.io/ArnoldFabian/pen/KQarOK?editors=0001
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
