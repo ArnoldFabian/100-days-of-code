@@ -105,6 +105,13 @@
 **Today's Progress**: Advanced the challanges at freecodecamp at good pace.
 **Thoughts:** I advanced in freecodecamp now i'm at the challenge 200!, Learned a lot even though i already saw most of the basics of js, the challenges were entretaining. I really like the style of learning there. The animation i was trying to do had an unexpected result, the shine which was supposed to move inside the circle escapes the cursor!, its funny to me, I'm just glad it does something contrary to doing nothing.
 **Link to work:** https://codepen.io/ArnoldFabian/pen/KQarOK?editors=0001
+
+### Day 16: february 11, 2018
+###
+
+**Today's Progress**: Today was a day of learning.
+**Thoughts:** Today was regular learning, learned a lot, thought a lot, and solved lots of problems!(like 17...), some challenges where really harsh, but i liked to solve them!.
+**Link to work:** https://www.freecodecamp.org/arnoldfabian
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
