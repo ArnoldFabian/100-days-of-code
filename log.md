@@ -112,6 +112,13 @@
 **Today's Progress**: Today was a day of learning.
 **Thoughts:** Today was regular learning, learned a lot, thought a lot, and solved lots of problems!(like 17...), some challenges where really harsh, but i liked to solve them!.
 **Link to work:** https://www.freecodecamp.org/arnoldfabian
+
+### Day 17: february 12, 2018
+###
+
+**Today's Progress**: Not much unfortunately
+**Thoughts:** Couldn't advance much today, because of life, right now it's late, but i'll keep at it a bit more.
+**Link to work:** https://www.freecodecamp.org/arnoldfabian
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
